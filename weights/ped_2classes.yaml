@@ -1,0 +1,9 @@
+path: /home/omar.elalaily/pedestrian_traffic_light/dataset
+train: images/train
+val: images/val
+test : images/test
+
+nc: 2
+names:
+  0: ped_light_stop
+  1: ped_light_go
