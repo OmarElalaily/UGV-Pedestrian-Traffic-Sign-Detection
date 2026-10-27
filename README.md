@@ -42,12 +42,15 @@ Classes: `ped_light_stop` (DON'T WALK) and `ped_light_go` (WALK). This model fee
 Below are samples of the model running on unseen validation data:
 
 **1. Pedestrian WALK Signal Detection**
+
 ![Detection of the WALK signal for UGV safety compliance](./images/2.jpg)
 
 **2. Pedestrian DON'T WALK Signal Detection**
+
 ![Detection of the DON'T WALK signal in low-light conditions](./images/1.jpg)
 
 **3. Combination Of Pedestrian WALK/DON'T WALK Signal Detectiong**
+
 ![Detection of the DON'T WALK signal in low-light conditions](./images/3.jpg)
 
 <hr>
